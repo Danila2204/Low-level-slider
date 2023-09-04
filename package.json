@@ -1,0 +1,15 @@
+{
+  "name": "low-level-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danila Gavruitenkov pogranichnik.work@yandex.ru",
+  "keywords": [
+    "slider",
+    "low-level"
+  ],
+  "license": "ISC"
+}
