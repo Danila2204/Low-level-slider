@@ -3,13 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "slider.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "type": "module",
+  "homepage": "https://github.com/Danila2204/Low-level-slider/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Danila2204/Low-level-slider/tree/main"
   },
   "author": "Danila Gavruitenkov pogranichnik.work@yandex.ru",
   "keywords": [
     "slider",
-    "low-level"
+    "low-level",
+    "low",
+    "level"
   ],
   "license": "ISC"
 }
